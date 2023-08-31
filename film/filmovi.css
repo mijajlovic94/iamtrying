@@ -1,0 +1,15 @@
+body {
+    background-color: darkcyan;
+    font-family: 'Inconsolata', monospace;
+}
+#slika1 {
+   margin: 20px;
+   float: left;
+}
+#slika2 {
+    margine: 20px;
+    float: right;
+}
+.zanr {
+    clear:both;
+}
